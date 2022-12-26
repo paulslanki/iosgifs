@@ -1,2 +1,2 @@
 # iosgifs
-iOS developer task for ChiliLabs
+iOS developer task
