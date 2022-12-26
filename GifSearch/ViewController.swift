@@ -5,6 +5,12 @@
 //  Created by Pauls Slankis on 25/12/2022.
 //
 
+// Things in code that have been skipped:
+// No infinite scroll, or loading indicator
+// No auto search
+// Caching is not working as it is supposed to be, no prefetching
+
+
 import UIKit
 
 struct APIResponse: Codable {
